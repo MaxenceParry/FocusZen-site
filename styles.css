@@ -1,0 +1,2 @@
+/* Styles additionnels si besoin */
+.btn-cta { @apply bg-white text-blue-900 font-semibold px-8 py-4 rounded-lg shadow-lg hover:shadow-xl transition; }
